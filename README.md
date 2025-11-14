@@ -9,7 +9,7 @@
 
 **An AI-powered game discovery platform that understands what you love**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Demo](#-demo)
+
 
 </div>
 
